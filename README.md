@@ -674,5 +674,263 @@ Pitfalls of SQL        1
 </pre>
 </div>
 
+</br>
 
+<h2><span id="Procedural_extensions" class="mw-headline">Procedural extensions</span></h2>
+<p>SQL is designed for a specific purpose: to query&nbsp;<a title="Data" href="https://en.wikipedia.org/wiki/Data">data</a>&nbsp;contained in a&nbsp;<a title="Relational database" href="https://en.wikipedia.org/wiki/Relational_database">relational database</a>. SQL is a&nbsp;<a class="mw-redirect" title="Set (computer science)" href="https://en.wikipedia.org/wiki/Set_(computer_science)">set</a>-based,&nbsp;<a class="mw-redirect" title="Declarative programming language" href="https://en.wikipedia.org/wiki/Declarative_programming_language">declarative programming language</a>, not an&nbsp;<a class="mw-redirect" title="Imperative programming language" href="https://en.wikipedia.org/wiki/Imperative_programming_language">imperative programming language</a>&nbsp;like&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;or&nbsp;<a title="BASIC" href="https://en.wikipedia.org/wiki/BASIC">BASIC</a>. However, extensions to Standard SQL add&nbsp;<a class="mw-redirect" title="Procedural programming language" href="https://en.wikipedia.org/wiki/Procedural_programming_language">procedural programming language</a>&nbsp;functionality, such as control-of-flow constructs. These include:</p>
+<table class="wikitable">
+<tbody>
+<tr>
+<th>Source</th>
+<th>Abbreviation</th>
+<th>Full name</th>
+</tr>
+<tr>
+<td>ANSI/ISO Standard</td>
+<td><a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a></td>
+<td>SQL/Persistent Stored Modules</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Interbase" href="https://en.wikipedia.org/wiki/Interbase">Interbase</a>&nbsp;/&nbsp;<a title="Firebird (database server)" href="https://en.wikipedia.org/wiki/Firebird_(database_server)">Firebird</a></td>
+<td><a class="mw-redirect" title="Procedural SQL" href="https://en.wikipedia.org/wiki/Procedural_SQL">PSQL</a></td>
+<td>Procedural SQL</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="IBM DB2" href="https://en.wikipedia.org/wiki/IBM_DB2">IBM DB2</a></td>
+<td><a title="SQL PL" href="https://en.wikipedia.org/wiki/SQL_PL">SQL PL</a></td>
+<td>SQL Procedural Language (implements SQL/PSM)</td>
+</tr>
+<tr>
+<td><a title="IBM Informix" href="https://en.wikipedia.org/wiki/IBM_Informix">IBM Informix</a></td>
+<td>SPL</td>
+<td>Stored Procedural Language</td>
+</tr>
+<tr>
+<td>IBM&nbsp;<a title="Netezza" href="https://en.wikipedia.org/wiki/Netezza">Netezza</a></td>
+<td>NZPLSQL</td>
+<td>(based on Postgres PL/pgSQL)</td>
+</tr>
+<tr>
+<td>Invantive</td>
+<td>PSQL</td>
+<td>Invantive Procedural SQL (implements&nbsp;<a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a>&nbsp;and&nbsp;<a title="PL/SQL" href="https://en.wikipedia.org/wiki/PL/SQL">PL/SQL</a>)</td>
+</tr>
+<tr>
+<td><a title="MariaDB" href="https://en.wikipedia.org/wiki/MariaDB">MariaDB</a></td>
+<td><a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a>,&nbsp;<a title="PL/SQL" href="https://en.wikipedia.org/wiki/PL/SQL">PL/SQL</a></td>
+<td>SQL/Persistent Stored Module (implements SQL/PSM), Procedural Language/SQL (based on&nbsp;<a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a>)</td>
+</tr>
+<tr>
+<td><a title="Microsoft" href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>&nbsp;/&nbsp;<a title="Sybase" href="https://en.wikipedia.org/wiki/Sybase">Sybase</a></td>
+<td><a title="Transact-SQL" href="https://en.wikipedia.org/wiki/Transact-SQL">T-SQL</a></td>
+<td>Transact-SQL</td>
+</tr>
+<tr>
+<td><a title="Mimer SQL" href="https://en.wikipedia.org/wiki/Mimer_SQL">Mimer SQL</a></td>
+<td><a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a></td>
+<td>SQL/Persistent Stored Module (implements SQL/PSM)</td>
+</tr>
+<tr>
+<td><a title="MySQL" href="https://en.wikipedia.org/wiki/MySQL">MySQL</a></td>
+<td><a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a></td>
+<td>SQL/Persistent Stored Module (implements SQL/PSM)</td>
+</tr>
+<tr>
+<td><a title="MonetDB" href="https://en.wikipedia.org/wiki/MonetDB">MonetDB</a></td>
+<td><a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a></td>
+<td>SQL/Persistent Stored Module (implements SQL/PSM)</td>
+</tr>
+<tr>
+<td><a title="NuoDB" href="https://en.wikipedia.org/wiki/NuoDB">NuoDB</a></td>
+<td>SSP</td>
+<td>Starkey Stored Procedures</td>
+</tr>
+<tr>
+<td><a title="Oracle Database" href="https://en.wikipedia.org/wiki/Oracle_Database">Oracle</a></td>
+<td><a title="PL/SQL" href="https://en.wikipedia.org/wiki/PL/SQL">PL/SQL</a></td>
+<td>Procedural Language/SQL (based on&nbsp;<a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a>)</td>
+</tr>
+<tr>
+<td><a title="PostgreSQL" href="https://en.wikipedia.org/wiki/PostgreSQL">PostgreSQL</a></td>
+<td><a title="PL/pgSQL" href="https://en.wikipedia.org/wiki/PL/pgSQL">PL/pgSQL</a></td>
+<td>Procedural Language/PostgreSQL Structured Query Language (implements SQL/PSM)</td>
+</tr>
+<tr>
+<td><a title="SAP SE" href="https://en.wikipedia.org/wiki/SAP_SE">SAP R/3</a></td>
+<td><a title="ABAP" href="https://en.wikipedia.org/wiki/ABAP">ABAP</a></td>
+<td>Advanced Business Application Programming</td>
+</tr>
+<tr>
+<td><a title="SAP HANA" href="https://en.wikipedia.org/wiki/SAP_HANA">SAP HANA</a></td>
+<td>SQLScript</td>
+<td>SQLScript</td>
+</tr>
+<tr>
+<td><a title="Sybase" href="https://en.wikipedia.org/wiki/Sybase">Sybase</a></td>
+<td>Watcom-SQL</td>
+<td>SQL Anywhere Watcom-SQL Dialect</td>
+</tr>
+<tr>
+<td><a title="Teradata" href="https://en.wikipedia.org/wiki/Teradata">Teradata</a></td>
+<td>SPL</td>
+<td>Stored Procedural Language</td>
+</tr>
+</tbody>
+</table>
+<p>In addition to the standard SQL/PSM extensions and proprietary SQL extensions, procedural and&nbsp;<a class="mw-redirect" title="Object-oriented programming language" href="https://en.wikipedia.org/wiki/Object-oriented_programming_language">object-oriented</a>&nbsp;programmability is available on many SQL platforms via DBMS integration with other languages. The SQL standard defines&nbsp;<a title="SQL/JRT" href="https://en.wikipedia.org/wiki/SQL/JRT">SQL/JRT</a>&nbsp;extensions (SQL Routines and Types for the Java Programming Language) to support&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>&nbsp;code in SQL databases.&nbsp;<a class="mw-redirect" title="Microsoft SQL Server 2005" href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server_2005">Microsoft SQL Server 2005</a>&nbsp;uses the&nbsp;<a class="mw-redirect" title="SQLCLR" href="https://en.wikipedia.org/wiki/SQLCLR">SQLCLR</a>&nbsp;(SQL Server Common Language Runtime) to host managed&nbsp;<a class="mw-redirect" title="Microsoft .NET" href="https://en.wikipedia.org/wiki/Microsoft_.NET">.NET</a>&nbsp;assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C.&nbsp;<a title="PostgreSQL" href="https://en.wikipedia.org/wiki/PostgreSQL">PostgreSQL</a>&nbsp;lets users write functions in a wide variety of languages&mdash;including&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>,&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>,&nbsp;<a title="Tcl" href="https://en.wikipedia.org/wiki/Tcl">Tcl</a>,&nbsp;<a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>&nbsp;(PL/V8) and C.</p>
+<h2><span id="Interoperability_and_standardization" class="mw-headline">Interoperability and standardization</span></h2>
+<p>SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular date and time syntax, string concatenation,&nbsp;<code>NULL</code>s, and comparison&nbsp;<a title="Case sensitivity" href="https://en.wikipedia.org/wiki/Case_sensitivity">case sensitivity</a>&nbsp;vary from vendor to vendor. Particular exceptions are&nbsp;<a title="PostgreSQL" href="https://en.wikipedia.org/wiki/PostgreSQL">PostgreSQL</a>&nbsp;and&nbsp;<a title="Mimer SQL" href="https://en.wikipedia.org/wiki/Mimer_SQL">Mimer SQL</a>&nbsp;which strive for standards compliance, though PostgreSQL does not adhere to the standard in how folding of unquoted names is done. The folding of unquoted names to lower case in PostgreSQL is incompatible with the SQL standard,&nbsp;which says that unquoted names should be folded to upper case.&nbsp;Thus,&nbsp;<code>Foo</code>&nbsp;should be equivalent to&nbsp;<code>FOO</code>&nbsp;not&nbsp;<code>foo</code>&nbsp;according to the standard.</p>
+<p>Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the&nbsp;<code>DATE</code>&nbsp;or&nbsp;<code>TIME</code>&nbsp;data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are Oracle (whose&nbsp;<code>DATE</code>&nbsp;behaves as&nbsp;<code>DATETIME</code>,&nbsp;and lacks a&nbsp;<code>TIME</code>&nbsp;type)&nbsp;and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications.</p>
+<p>There are several reasons for this lack of portability between database systems:</p>
+<ul>
+<li>The complexity and size of the SQL standard means that most implementors do not support the entire standard.</li>
+<li>The standard does not specify database behavior in several important areas (e.g.&nbsp;<a class="mw-redirect" title="Index (database)" href="https://en.wikipedia.org/wiki/Index_(database)">indexes</a>, file storage...), leaving implementations to decide how to behave.</li>
+<li>The SQL standard precisely specifies the syntax that a conforming database system must implement. However, the standard's specification of the semantics of language constructs is less well-defined, leading to ambiguity.</li>
+<li>Many database vendors have large existing customer bases; where the newer version of the SQL standard conflicts with the prior behavior of the vendor's database, the vendor may be unwilling to break&nbsp;<a title="Backward compatibility" href="https://en.wikipedia.org/wiki/Backward_compatibility">backward compatibility</a>.</li>
+<li>There is little commercial incentive for vendors to make it easier for users to change database suppliers.</li>
+<li>Users evaluating database software tend to place other factors such as performance higher in their priorities than standards conformance.</li>
+</ul>
+<p>SQL was adopted as a standard by the&nbsp;<a title="American National Standards Institute" href="https://en.wikipedia.org/wiki/American_National_Standards_Institute">American National Standards Institute</a>&nbsp;(ANSI) in 1986 as SQL-86&nbsp;and the&nbsp;<a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">International Organization for Standardization</a>&nbsp;(ISO) in 1987.&nbsp;It is maintained by&nbsp;<a title="ISO/IEC JTC 1/SC 32" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_32"><em>ISO/IEC JTC 1, Information technology, Subcommittee SC 32, Data management and interchange</em></a>. The standard is commonly denoted by the pattern:&nbsp;<em>ISO/IEC 9075-n:yyyy Part n: title</em>, or, as a shortcut,&nbsp;<em>ISO/IEC 9075</em>.</p>
+<p><em>ISO/IEC 9075</em>&nbsp;is complemented by&nbsp;<em>ISO/IEC 13249: SQL Multimedia and Application Packages</em>&nbsp;(SQL/MM), which defines SQL based interfaces and packages to widely spread applications like video, audio and&nbsp;<a class="mw-redirect" title="Georeference" href="https://en.wikipedia.org/wiki/Georeference">spatial data</a>.</p>
+<p>Until 1996, the&nbsp;<a title="National Institute of Standards and Technology" href="https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology">National Institute of Standards and Technology</a>&nbsp;(NIST) data management standards program certified SQL DBMS compliance with the SQL standard. Vendors now self-certify the compliance of their products.</p>
+<p>The original standard declared that the official pronunciation for "SQL" was an&nbsp;<a class="mw-redirect" title="Initialism" href="https://en.wikipedia.org/wiki/Initialism">initialism</a>:&nbsp;<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˌ/: secondary stress follows">ˌ</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'s' in 'sigh'">s</span><span title="/ˌ/: secondary stress follows">ˌ</span><span title="'k' in 'kind'">k</span><span title="/juː/: 'u' in 'cute'">juː</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'l' in 'lie'">l</span>/</a></span></span>&nbsp;("ess cue el").&nbsp;Regardless, many English-speaking database professionals (including&nbsp;<a class="mw-redirect" title="Donald Chamberlin" href="https://en.wikipedia.org/wiki/Donald_Chamberlin">Donald Chamberlin</a>&nbsp;himself) use the&nbsp;<a title="Acronym" href="https://en.wikipedia.org/wiki/Acronym">acronym</a>-like pronunciation of&nbsp;<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'k' in 'kind'">k</span><span title="'w' in 'wind'">w</span><span title="/əl/: 'le' in 'bottle'">əl</span>/</a></span></span>&nbsp;("sequel"),&nbsp;mirroring the language's pre-release development name of "SEQUEL".&nbsp;The SQL standard has gone through a number of revisions:</p>
+<table class="wikitable">
+<tbody>
+<tr>
+<th>Year</th>
+<th>Name</th>
+<th>Alias</th>
+<th>Comments</th>
+</tr>
+<tr>
+<td>1986</td>
+<td>SQL-86</td>
+<td>SQL-87</td>
+<td>First formalized by ANSI.</td>
+</tr>
+<tr>
+<td>1989</td>
+<td>SQL-89</td>
+<td><a class="mw-redirect" title="Federal Information Processing Standard" href="https://en.wikipedia.org/wiki/Federal_Information_Processing_Standard">FIPS</a>&nbsp;127-1</td>
+<td>Minor revision that added integrity constraints, adopted as FIPS 127-1.</td>
+</tr>
+<tr>
+<td>1992</td>
+<td><a title="SQL-92" href="https://en.wikipedia.org/wiki/SQL-92">SQL-92</a></td>
+<td>SQL2, FIPS 127-2</td>
+<td>Major revision (ISO 9075),&nbsp;<em>Entry Level</em>&nbsp;SQL-92 adopted as FIPS 127-2.</td>
+</tr>
+<tr>
+<td>1999</td>
+<td><a title="SQL:1999" href="https://en.wikipedia.org/wiki/SQL:1999">SQL:1999</a></td>
+<td>SQL3</td>
+<td>Added regular expression matching,&nbsp;<a title="Hierarchical and recursive queries in SQL" href="https://en.wikipedia.org/wiki/Hierarchical_and_recursive_queries_in_SQL">recursive queries</a>&nbsp;(e.g.&nbsp;<a title="Transitive closure" href="https://en.wikipedia.org/wiki/Transitive_closure">transitive closure</a>),&nbsp;<a title="Database trigger" href="https://en.wikipedia.org/wiki/Database_trigger">triggers</a>, support for procedural and control-of-flow statements, non-scalar types (arrays), and some object-oriented features (e.g.&nbsp;<a title="Structured type" href="https://en.wikipedia.org/wiki/Structured_type">structured types</a>). Support for embedding SQL in Java (<a title="SQL/OLB" href="https://en.wikipedia.org/wiki/SQL/OLB">SQL/OLB</a>) and vice versa (<a title="SQL/JRT" href="https://en.wikipedia.org/wiki/SQL/JRT">SQL/JRT</a>).</td>
+</tr>
+<tr>
+<td>2003</td>
+<td><a title="SQL:2003" href="https://en.wikipedia.org/wiki/SQL:2003">SQL:2003</a></td>
+<td>&nbsp;</td>
+<td>Introduced&nbsp;<a title="XML" href="https://en.wikipedia.org/wiki/XML">XML</a>-related features (<a title="SQL/XML" href="https://en.wikipedia.org/wiki/SQL/XML">SQL/XML</a>),&nbsp;<a title="SQL window function" href="https://en.wikipedia.org/wiki/SQL_window_function">window functions</a>, standardized sequences, and columns with auto-generated values (including identity-columns).</td>
+</tr>
+<tr>
+<td>2006</td>
+<td><a title="SQL:2006" href="https://en.wikipedia.org/wiki/SQL:2006">SQL:2006</a></td>
+<td>&nbsp;</td>
+<td>ISO/IEC 9075-14:2006 defines ways that SQL can be used with XML. It defines ways of importing and storing XML data in an SQL database, manipulating it within the database, and publishing both XML and conventional SQL-data in XML form. In addition, it lets applications integrate queries into their SQL code with&nbsp;<a title="XQuery" href="https://en.wikipedia.org/wiki/XQuery">XQuery</a>, the XML Query Language published by the World Wide Web Consortium (<a class="mw-redirect" title="W3C" href="https://en.wikipedia.org/wiki/W3C">W3C</a>), to concurrently access ordinary SQL-data and XML documents.</td>
+</tr>
+<tr>
+<td>2008</td>
+<td><a title="SQL:2008" href="https://en.wikipedia.org/wiki/SQL:2008">SQL:2008</a></td>
+<td>&nbsp;</td>
+<td>Legalizes ORDER BY outside cursor definitions. Adds INSTEAD OF triggers, TRUNCATE statement,&nbsp;FETCH clause.</td>
+</tr>
+<tr>
+<td>2011</td>
+<td><a title="SQL:2011" href="https://en.wikipedia.org/wiki/SQL:2011">SQL:2011</a></td>
+<td>&nbsp;</td>
+<td>Adds temporal data (PERIOD FOR)&nbsp;(more information at:&nbsp;<a title="Temporal database" href="https://en.wikipedia.org/wiki/Temporal_database#History">Temporal database#History</a>). Enhancements for&nbsp;<a title="SQL window function" href="https://en.wikipedia.org/wiki/SQL_window_function">window functions</a>&nbsp;and FETCH clause.</td>
+</tr>
+<tr>
+<td>2016</td>
+<td><a title="SQL:2016" href="https://en.wikipedia.org/wiki/SQL:2016">SQL:2016</a></td>
+<td>&nbsp;</td>
+<td>Adds row pattern matching, polymorphic table functions,&nbsp;<a title="JSON" href="https://en.wikipedia.org/wiki/JSON">JSON</a>.</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>SQL:2019</td>
+<td>&nbsp;</td>
+<td>Adds Part 15, multidimensional arrays (MDarray type and operators).</td>
+</tr>
+</tbody>
+</table>
+<p>Interested parties may purchase SQL standards documents from ISO,&nbsp;IEC or ANSI. A draft of SQL:2008 is freely available as a&nbsp;<a class="mw-redirect" title="ZIP (file format)" href="https://en.wikipedia.org/wiki/ZIP_(file_format)">zip</a>&nbsp;archive.</p>
+<p>The SQL standard is divided into ten parts. There are gaps in the numbering due to the withdrawal of outdated parts.</p>
+<ul>
+<li>ISO/IEC 9075-1:2016 Part 1:&nbsp;<em>Framework</em>&nbsp;(SQL/Framework). It provides logical concepts.</li>
+<li>ISO/IEC 9075-2:2016 Part 2:&nbsp;<em>Foundation</em>&nbsp;(SQL/Foundation). It contains the most central elements of the language and consists of both&nbsp;<em>mandatory and optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-3:2016 Part 3:&nbsp;<em>Call-Level Interface</em>&nbsp;(<a title="SQL/CLI" href="https://en.wikipedia.org/wiki/SQL/CLI">SQL/CLI</a>). It defines interfacing components (structures, procedures, variable bindings) that can be used to execute SQL statements from applications written in Ada, C respectively C++, COBOL, Fortran, MUMPS, Pascal or PL/I. (For Java see part 10.) SQL/CLI is defined in such a way that SQL statements and SQL/CLI procedure calls are treated as separate from the calling application's source code.&nbsp;<a title="Open Database Connectivity" href="https://en.wikipedia.org/wiki/Open_Database_Connectivity">Open Database Connectivity</a>&nbsp;is a well-known superset of SQL/CLI. This part of the standard consists solely of&nbsp;<em>mandatory</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-4:2016 Part 4:&nbsp;<em>Persistent stored modules</em>&nbsp;(<a title="SQL/PSM" href="https://en.wikipedia.org/wiki/SQL/PSM">SQL/PSM</a>). It standardizes procedural extensions for SQL, including flow of control, condition handling, statement condition signals and resignals, cursors and local variables, and assignment of expressions to variables and parameters. In addition, SQL/PSM formalizes declaration and maintenance of persistent database language routines (e.g., "stored procedures"). This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-9:2016 Part 9:&nbsp;<em>Management of External Data</em>&nbsp;(<a title="SQL/MED" href="https://en.wikipedia.org/wiki/SQL/MED">SQL/MED</a>). It provides extensions to SQL that define foreign-data wrappers and datalink types to allow SQL to manage external data. External data is data that is accessible to, but not managed by, an SQL-based DBMS. This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-10:2016 Part 10:&nbsp;<em>Object language bindings</em>&nbsp;(<a title="SQL/OLB" href="https://en.wikipedia.org/wiki/SQL/OLB">SQL/OLB</a>). It defines the syntax and semantics of&nbsp;<a title="SQLJ" href="https://en.wikipedia.org/wiki/SQLJ">SQLJ</a>, which is SQL embedded in Java (see also part 3). The standard also describes mechanisms to ensure binary portability of SQLJ applications, and specifies various Java packages and their contained classes. This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features. Unlike SQL/OLB&nbsp;<a class="mw-redirect" title="JDBC" href="https://en.wikipedia.org/wiki/JDBC">JDBC</a>&nbsp;defines an&nbsp;<a class="mw-redirect" title="API" href="https://en.wikipedia.org/wiki/API">API</a>&nbsp;and is not part of the SQL standard.</li>
+<li>ISO/IEC 9075-11:2016 Part 11:&nbsp;<em>Information and definition schemas</em>&nbsp;(<a title="SQL/Schemata" href="https://en.wikipedia.org/wiki/SQL/Schemata">SQL/Schemata</a>). It defines the Information Schema and Definition Schema, providing a common set of tools to make SQL databases and objects self-describing. These tools include the SQL object identifier, structure and integrity constraints, security and authorization specifications, features and packages of ISO/IEC 9075, support of features provided by SQL-based DBMS implementations, SQL-based DBMS implementation information and sizing items, and the values supported by the DBMS implementations.<sup id="cite_ref-ISO/IEC_9075-11:2008_44-0" class="reference"><a href="https://en.wikipedia.org/wiki/SQL#cite_note-ISO/IEC_9075-11:2008-44">[41]</a></sup>&nbsp;This part of the standard contains both&nbsp;<em>mandatory and optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-13:2016 Part 13:&nbsp;<em>SQL Routines and types using the Java TM programming language</em>&nbsp;(<a title="SQL/JRT" href="https://en.wikipedia.org/wiki/SQL/JRT">SQL/JRT</a>). It specifies the ability to invoke static Java methods as routines from within SQL applications ('Java-in-the-database'). It also calls for the ability to use Java classes as SQL structured user-defined types. This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-14:2016 Part 14:&nbsp;<em>XML-Related Specifications</em>&nbsp;(<a title="SQL/XML" href="https://en.wikipedia.org/wiki/SQL/XML">SQL/XML</a>). It specifies SQL-based extensions for using XML in conjunction with SQL. The&nbsp;<em>XML</em>&nbsp;data type is introduced, as well as several routines, functions, and XML-to-SQL data type mappings to support manipulation and storage of XML in an SQL database.&nbsp;This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features.</li>
+<li>ISO/IEC 9075-15:2019 Part 15:&nbsp;<em>Multi-dimensional arrays</em>&nbsp;(SQL/MDA). It specifies a multidimensional array type (MDarray) for SQL, along with operations on MDarrays, MDarray slices, MDarray cells, and related features. This part of the standard consists solely of&nbsp;<em>optional</em>&nbsp;features.</li>
+</ul>
+<p>ISO/IEC 9075 is complemented by ISO/IEC 13249&nbsp;<em>SQL Multimedia and Application Packages</em>. This closely related but separate standard is developed by the same committee. It defines interfaces and packages based on SQL. The aim is a unified access to typical database applications like text, pictures, data mining or&nbsp;<a class="mw-redirect" title="Georeference" href="https://en.wikipedia.org/wiki/Georeference">spatial data</a>.</p>
+<ul>
+<li>ISO/IEC 13249-1:2016 Part 1:&nbsp;<em>Framework</em></li>
+<li>ISO/IEC 13249-2:2003 Part 2:&nbsp;<em>Full-Text</em></li>
+<li>ISO/IEC 13249-3:2016 Part 3:&nbsp;<em>Spatial</em></li>
+<li>ISO/IEC 13249-5:2003 Part 5:&nbsp;<em>Still image</em></li>
+<li>ISO/IEC 13249-6:2006 Part 6:&nbsp;<em>Data mining</em></li>
+<li>ISO/IEC 13249-7:2013 Part 7:&nbsp;<em>History</em></li>
+<li>ISO/IEC 13249-8:xxxx Part 8:&nbsp;<em>Metadata Registry Access</em>&nbsp;<a class="external text" href="https://www.iso.org/standard/73181.html" rel="nofollow">MRA</a>&nbsp;(work in progress)</li>
+</ul>
+<p>ISO/IEC 9075 is also accompanied by a series of Technical Reports, published as ISO/IEC TR 19075 in 8 parts. These Technical Reports explain the justification for and usage of some features of SQL, giving examples where appropriate. The Technical Reports are non-normative; if there is any discrepancy from 9075, the text in 9075 holds. Currently available 19075 Technical Reports are:</p>
+<ul>
+<li>ISO/IEC TR 19075-1:2011 Part 1: XQuery Regular Expression Support in SQL</li>
+<li>ISO/IEC TR 19075-2:2015 Part 2: SQL Support for Time-Related Information</li>
+<li>ISO/IEC TR 19075-3:2015 Part 3: SQL Embedded in Programs using the Java<sup>TM</sup>&nbsp;programming language</li>
+<li>ISO/IEC TR 19075-4:2015 Part 4: SQL with Routines and types using the Java<sup>TM</sup>&nbsp;programming language</li>
+<li>ISO/IEC TR 19075-5:2016 Part 5: Row Pattern Recognition in SQL</li>
+<li>ISO/IEC TR 19075-6:2017 Part 6: SQL support for Javascript Object Notation (JSON)</li>
+<li>ISO/IEC TR 19075-7:2017 Part 7: Polymorphic table functions in SQL</li>
+<li>ISO/IEC TR 19075-8:2019 Part 8: Multi-Dimensional Arrays (SQL/MDA)</li>
+</ul>
+<h2><span id="Alternatives" class="mw-headline">Alternatives</span></h2>
+<p>A distinction should be made between alternatives to SQL as a language, and alternatives to the relational model itself. Below are proposed relational alternatives to the SQL language. See&nbsp;<a title="Navigational database" href="https://en.wikipedia.org/wiki/Navigational_database">navigational database</a>&nbsp;and&nbsp;<a title="NoSQL" href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a>&nbsp;for alternatives to the relational model.</p>
+<ul>
+<li><a title=".QL" href="https://en.wikipedia.org/wiki/.QL">.QL</a>: object-oriented Datalog</li>
+<li><a class="mw-redirect" title="4th Dimension (Software)" href="https://en.wikipedia.org/wiki/4th_Dimension_(Software)">4D Query Language</a>&nbsp;(4D QL)</li>
+<li><a title="Datalog" href="https://en.wikipedia.org/wiki/Datalog">Datalog</a>: critics suggest that&nbsp;<a title="Datalog" href="https://en.wikipedia.org/wiki/Datalog">Datalog</a>&nbsp;has two advantages over SQL: it has cleaner semantics, which facilitates program understanding and maintenance, and it is more expressive, in particular for recursive queries.</li>
+<li><a title="HTSQL" href="https://en.wikipedia.org/wiki/HTSQL">HTSQL</a>: URL based query method</li>
+<li><a title="IBM Business System 12" href="https://en.wikipedia.org/wiki/IBM_Business_System_12">IBM Business System 12</a>&nbsp;(IBM BS12): one of the first fully relational database management systems, introduced in 1982</li>
+<li><a title="ISBL" href="https://en.wikipedia.org/wiki/ISBL">ISBL</a></li>
+<li><a class="mw-redirect" title="Java Object Oriented Querying" href="https://en.wikipedia.org/wiki/Java_Object_Oriented_Querying">jOOQ</a>: SQL implemented in Java as an&nbsp;<a title="Domain-specific language" href="https://en.wikipedia.org/wiki/Domain-specific_language">internal domain-specific language</a></li>
+<li><a title="Java Persistence Query Language" href="https://en.wikipedia.org/wiki/Java_Persistence_Query_Language">Java Persistence Query Language</a>&nbsp;(JPQL): The query language used by the Java Persistence API and&nbsp;<a class="mw-redirect" title="Hibernate (Java)" href="https://en.wikipedia.org/wiki/Hibernate_(Java)">Hibernate</a>&nbsp;persistence library</li>
+<li><a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>:&nbsp;<a title="MongoDB" href="https://en.wikipedia.org/wiki/MongoDB">MongoDB</a>&nbsp;implements its query language in a JavaScript API.</li>
+<li><a title="Language Integrated Query" href="https://en.wikipedia.org/wiki/Language_Integrated_Query">LINQ</a>: Runs SQL statements written like language constructs to query collections directly from inside&nbsp;<a title=".NET Framework" href="https://en.wikipedia.org/wiki/.NET_Framework">.Net</a>&nbsp;code.</li>
+<li><a title="Object Query Language" href="https://en.wikipedia.org/wiki/Object_Query_Language">Object Query Language</a></li>
+<li>QBE (<a class="mw-redirect" title="Query By Example" href="https://en.wikipedia.org/wiki/Query_By_Example">Query By Example</a>) created by Mosh&egrave; Zloof, IBM 1977</li>
+<li><a title="QUEL query languages" href="https://en.wikipedia.org/wiki/QUEL_query_languages">Quel</a>&nbsp;introduced in 1974 by the U.C. Berkeley Ingres project.</li>
+<li><a class="mw-redirect" title="Tutorial D" href="https://en.wikipedia.org/wiki/Tutorial_D">Tutorial D</a></li>
+<li><a title="XQuery" href="https://en.wikipedia.org/wiki/XQuery">XQuery</a></li>
+</ul>
+<h2><span id="Distributed_SQL_processing" class="mw-headline">Distributed SQL processing</span></h2>
+<p><a title="DRDA" href="https://en.wikipedia.org/wiki/DRDA">Distributed Relational Database Architecture</a>&nbsp;(DRDA) was designed by a work group within IBM in the period 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests.</p>
+<p>An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. This is important for the efficient operation of application programs that issue complex, high-frequency queries. It is especially important when the tables to be accessed are located in remote systems.</p>
+<p>The messages, protocols, and structural components of DRDA are defined by the&nbsp;<a title="Distributed Data Management Architecture" href="https://en.wikipedia.org/wiki/Distributed_Data_Management_Architecture">Distributed Data Management Architecture</a>.</p>
+<h2><span id="Criticisms" class="mw-headline">Criticisms</span></h2>
+<p>Chamberlin's 2012 paper&nbsp;discusses four historical criticisms of SQL:</p>
+<h3><span id="Orthogonality_and_completeness" class="mw-headline">Orthogonality and completeness</span></h3>
+<p>Early specifications did not support major features, such as primary keys. Result sets could not be named, and sub-queries had not been defined. These were added in 1992.</p>
+<h3><span id="NULLs" class="mw-headline">NULLs</span></h3>
+<p>SQL's controversial "NULL" and three-value logic. Predicates evaluated over nulls return the logical value of "unknown" rather than true or false. Features such as outer-join depend on nulls. Null is not equivalent to space. NULLS are not equal to another NULL. NULL represents no data in the column, or row.</p>
+<h3><span id="Duplicates" class="mw-headline">Duplicates</span></h3>
+<p>Another popular criticism is that it allows duplicate rows, making integration with languages such as&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a>, whose data types might make it difficult to accurately represent the data,&nbsp;difficult in terms of parsing and by the absence of modularity.</p>
+<p>This can be avoided declaring a unique constraint with one or more fields that identifies uniquely a row in the table. That constraint could also become the primary key of the table.</p>
+<h3><span id="Impedance_mismatch" class="mw-headline">Impedance mismatch</span></h3>
+<p>In a similar sense to&nbsp;<a title="Object-relational impedance mismatch" href="https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch">Object-relational impedance mismatch</a>, there is a mismatch between the declarative SQL language and the procedural languages that SQL is typically embedded in.</p>
 
