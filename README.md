@@ -41,7 +41,7 @@
 <p>SQL deviates in several ways from its theoretical foundation, the&nbsp;<a title="Relational model" href="https://en.wikipedia.org/wiki/Relational_model">relational model</a>&nbsp;and its&nbsp;<a title="Tuple relational calculus" href="https://en.wikipedia.org/wiki/Tuple_relational_calculus">tuple calculus</a>. In that model, a table is a&nbsp;<a title="Set (mathematics)" href="https://en.wikipedia.org/wiki/Set_(mathematics)">set</a>&nbsp;of tuples, while in SQL, tables and query results are&nbsp;<a class="mw-redirect" title="List (computing)" href="https://en.wikipedia.org/wiki/List_(computing)">lists</a>&nbsp;of rows: the same row may occur multiple times, and the order of rows can be employed in queries (e.g. in the LIMIT clause).</p>
 <p>Critics argue that SQL should be replaced with a language that returns strictly to the original foundation: for example, see&nbsp;<em><a title="The Third Manifesto" href="https://en.wikipedia.org/wiki/The_Third_Manifesto">The Third Manifesto</a></em>. However, no known proof exists that such uniqueness cannot be added to SQL itself, or at least a variation of SQL. In other words, it's quite possible that SQL can be "fixed" or at least improved in this regard such that the industry may not have to switch to a completely different query language to obtain uniqueness. Debate on this remains open.</p>
 
-
+<h2><span id="Syntax" class="mw-headline">Syntax</span></h2>
 
 
 
