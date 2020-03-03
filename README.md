@@ -44,7 +44,29 @@
 <h2><span id="Syntax" class="mw-headline">Syntax</span></h2>
 
 
-
+<p>The&nbsp;<a title="Syntax (programming languages)" href="https://en.wikipedia.org/wiki/Syntax_(programming_languages)">syntax</a>&nbsp;of the&nbsp;<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">SQL</a>&nbsp;programming language is defined and maintained by&nbsp;<a title="ISO/IEC JTC 1/SC 32" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_32">ISO/IEC SC 32</a>&nbsp;as part of&nbsp;<em>ISO/IEC 9075</em>. This standard is not freely available. Despite the existence of the standard, SQL code is not completely portable among different database systems without adjustments.</p>
+<div id="toc" class="toc"><br />
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Language_elements"><span class="toctext">Language elements</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operators"><span class="toctext">Operators</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Comments"><span class="toctext">Comments</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Queries"><span class="toctext">Queries</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Subqueries"><span class="toctext">Subqueries</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Derived_table"><span class="toctext">Derived table</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Null_or_three-valued_logic_(3VL)"><span class="toctext">Null or three-valued logic (3VL)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Data_manipulation"><span class="toctext">Data manipulation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Transaction_controls"><span class="toctext">Transaction controls</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Data_definition"><span class="toctext">Data definition</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Data_types"><span class="toctext">Data types</span></a></li>
+<li class="toclevel-2 tocsection-12"><span class="toctext"><a href="#Data_control">Data control</a></span></li>
+</ul>
+</li>
+</ul>
+</div>
 
 
 
