@@ -45,7 +45,6 @@
 
 
 <p>The&nbsp;<a title="Syntax (programming languages)" href="https://en.wikipedia.org/wiki/Syntax_(programming_languages)">syntax</a>&nbsp;of the&nbsp;<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">SQL</a>&nbsp;programming language is defined and maintained by&nbsp;<a title="ISO/IEC JTC 1/SC 32" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_32">ISO/IEC SC 32</a>&nbsp;as part of&nbsp;<em>ISO/IEC 9075</em>. This standard is not freely available. Despite the existence of the standard, SQL code is not completely portable among different database systems without adjustments.</p>
-<div id="toc" class="toc"><br />
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
@@ -62,11 +61,10 @@
 <li class="toclevel-2 tocsection-9"><a href="#Transaction_controls"><span class="toctext">Transaction controls</span></a></li>
 <li class="toclevel-2 tocsection-10"><a href="#Data_definition"><span class="toctext">Data definition</span></a></li>
 <li class="toclevel-2 tocsection-11"><a href="#Data_types"><span class="toctext">Data types</span></a></li>
-<li class="toclevel-2 tocsection-12"><span class="toctext"><a href="#Data_control">Data control</a></span></li>
+<li class="toclevel-2 tocsection-12"><a href="#Data_control"><span class="toctext">Data control</span></a></li>
 </ul>
 </li>
 </ul>
-</div>
 
 
 
