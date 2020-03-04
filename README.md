@@ -994,23 +994,33 @@ Pitfalls of SQL        1
 
   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(30).pdf" style="text-decoration:none;">Microsoft course 2778, Writing Queries Using Microsoft SQL Server 2008 Transact-SQL</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(31).pdf" style="text-decoration:none;"> Life 3.0 : being human in the age of artificial intelligence</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(31).pdf" style="text-decoration:none;"> SQL Practice Problems</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(32).pdf" style="text-decoration:none;">Our mathematical universe: my quest for the ultimate nature of reality</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(33).pdf" style="text-decoration:none;">The clustering of luminous red galaxies in the Sloan Digital Sky Survey imaging data</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(33).pdf" style="text-decoration:none;">SQL Queries for Mere Mortals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(34).pdf" style="text-decoration:none;">A Map of the Universe</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(34).pdf" style="text-decoration:none;">Oracle PL/SQL Language Pocket Reference</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(35).pdf" style="text-decoration:none;">Parallel Universes</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(35).pdf" style="text-decoration:none;">Beginning SQL Server Modeling</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(36).pdf" style="text-decoration:none;">The Shape of the Sloan Digital Sky Survey Data Release 5 Galaxy Power Spectrum</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(36).pdf" style="text-decoration:none;">Pro SQL Database for Windows Azure</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(37).pdf" style="text-decoration:none;">100 years of quantum mysteries</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(38).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(39).pdf" style="text-decoration:none;">Why Is the Cosmic Microwave Background Fluctuation Level 10<sup>−5</sup>?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(40).pdf" style="text-decoration:none;">Dimensionless constants, cosmology, and other dark matters</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(41).pdf" style="text-decoration:none;">On the dimensionality of spacetime</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(42).pdf" style="text-decoration:none;">Interview: Max Tegmark on Superintelligent AI, Cosmic Apocalypse, and Life 3.0</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(37).pdf" style="text-decoration:none;">PySpark SQL Recipes: With HiveQL, Dataframe and Graphframes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(38).pdf" style="text-decoration:none;">Effective SQL</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(39).pdf" style="text-decoration:none;">SQL Anywhere Server SQL Reference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(40).rar" style="text-decoration:none;">Microsoft SQL Server 2008 Bible</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(41).pdf" style="text-decoration:none;">Mastering PostgreSQL 10</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(42).pdf" style="text-decoration:none;">Microsoft SQL Server 2005 Analysis Services</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(43).pdf" style="text-decoration:none;">SQL Server 2005 DBA Street Smarts: A Real World Guide to SQL Server 2005 Certification Skills</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(44).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 Transact-SQL DML Reference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(45).pdf" style="text-decoration:none;">SQL Server Query Performance Tuning</a></li>
+
+
+
+
+
+
 </ul>
 
 
