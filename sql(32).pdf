@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="/cdn-cgi/apps/head/iHbvsQBPRKZ04LXXNVVI_YSfrro.js"></script><link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://k0nsl.org/blog/xmlrpc.php">
+<title>k0nsl’s blog &#8211; My personal platform.</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="k0nsl’s blog &raquo; Feed" href="https://k0nsl.org/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="k0nsl’s blog &raquo; Comments Feed" href="https://k0nsl.org/blog/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/k0nsl.org\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ribbon-lite-style-css' href='https://k0nsl.org/blog/wp-content/themes/ribbon-lite/style.css?ver=4.9.9' type='text/css' media='all' />
+<style id='ribbon-lite-style-inline-css' type='text/css'>
+
+        #site-header { background-image: url(''); }
+        #tabber .inside li .meta b,footer .widget li a:hover,.fn a,.reply a,#tabber .inside li div.info .entry-title a:hover, #navigation ul ul a:hover,.single_post a, a:hover, .sidebar.c-4-12 .textwidget a, #site-footer .textwidget a, #commentform a, #tabber .inside li a, .copyrights a:hover, a, .sidebar.c-4-12 a:hover, .top a:hover, footer .tagcloud a:hover { color: #EA141F; }
+
+        .nav-previous a:hover, .nav-next a:hover, #commentform input#submit, #searchform input[type='submit'], .home_menu_item, .primary-navigation a:hover, .post-date-ribbon, .currenttext, .pagination a:hover, .readMore a, .mts-subscribe input[type='submit'], .pagination .current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-product-search input[type="submit"], .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button { background-color: #EA141F; }
+
+        .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .pagination .current, .tagcloud a { border-color: #EA141F; }
+        .corner { border-color: transparent transparent #EA141F transparent;}
+
+        .primary-navigation, footer, .readMore a:hover, #commentform input#submit:hover, .featured-thumbnail .latestPost-review-wrapper { background-color: #364956; }
+			
+</style>
+<link rel='stylesheet' id='theme-slug-fonts-css' href='//fonts.googleapis.com/css?family=Monda%3A400%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='https://k0nsl.org/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://k0nsl.org/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://k0nsl.org/blog/wp-content/themes/ribbon-lite/js/customscripts.js?ver=4.9.9'></script>
+<link rel='https://api.w.org/' href='https://k0nsl.org/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://k0nsl.org/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://k0nsl.org/blog/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.9" />
+</head>
+<body class="home blog group-blog hfeed">
+<div class="main-container">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<header id="site-header" role="banner">
+<div class="container clear">
+<div class="site-branding">
+<h1 id="logo" class="site-title" itemprop="headline">
+<a href="https://k0nsl.org/blog">k0nsl’s blog</a>
+</h1>
+<div class="site-description">My personal platform.</div>
+</div>
+</div>
+<div class="primary-navigation">
+<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+<div class="container clear">
+<nav id="navigation" class="primary-navigation mobile-menu-wrapper" role="navigation">
+<ul id="menu-main" class="menu clearfix"><li id="menu-item-6758" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6758"><a href="https://k0nsl.org/blog/">Home</a></li>
+<li id="menu-item-6760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6760"><a href="https://k0nsl.org/blog/responses/">Responses</a></li>
+<li id="menu-item-6759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6759"><a href="https://k0nsl.org/blog/main/about-k0nsl/">About k0nsl</a></li>
+<li id="menu-item-6761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6761"><a href="https://k0nsl.org/blog/main/contact-me/">Contact me</a></li>
+</ul> </nav>
+</div>
+</div>
+</header>
+<div id="page" class="home-page">
+<div id="content" class="article">
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>22.10.16</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/my-personal-nas/" title="My personal NAS" rel="bookmark">My personal NAS</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/hardware/" rel="category tag">Hardware</a>, <a href="https://k0nsl.org/blog/category/personal/" rel="category tag">Personal</a>, <a href="https://k0nsl.org/blog/category/personal/work/" rel="category tag">Work</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/my-personal-nas/#respond">0 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/my-personal-nas/" title="My personal NAS" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="105" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/nas-thumbnail01_k0nsl.png" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/nas-thumbnail01_k0nsl.png 472w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/nas-thumbnail01_k0nsl-300x210.png 300w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/10/nas-thumbnail01_k0nsl-250x175.png 250w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+</a>
+<div class="post-content">
+I built a personal NAS[1] solution back in November of 2015 and it is a &#8220;budget solution&#8221; mostly based on hardware I already had lying around here at home. It consists of the following hardware: CPU: Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz Motherboard: ASUS P8B75-MLE Memory: 8GB Kingston HyperX Disks: 1 WD Red 2TB for </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/my-personal-nas/" title="My personal NAS">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>15.04.16</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/custom-raspberry-pi-3-case/" title="My custom Raspberry Pi 3 case" rel="bookmark">My custom Raspberry Pi 3 case</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/computing/" rel="category tag">Computing</a>, <a href="https://k0nsl.org/blog/category/hardware/" rel="category tag">Hardware</a>, <a href="https://k0nsl.org/blog/category/personal/" rel="category tag">Personal</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/custom-raspberry-pi-3-case/#comments">1 Comment</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/custom-raspberry-pi-3-case/" title="My custom Raspberry Pi 3 case" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="84" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/04/20160414_170751.jpg" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/04/20160414_170751.jpg 3840w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/04/20160414_170751-300x169.jpg 300w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2016/04/20160414_170751-1216x684.jpg 1216w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+</a>
+<div class="post-content">
+This is my custom Raspberry Pi 3 case &#8212; the material is birch wood and might have been sourced at Birkenau (I&#8217;m joking). However, it is birch wood, though. The plan is to use this RPi3 as another device for various development tasks. My RPi 2 Model B is feeling rather sluggish when it comes </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/custom-raspberry-pi-3-case/" title="My custom Raspberry Pi 3 case">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>24.05.15</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/_h5ai-on-lsws/" title="_h5ai on ‎LiteSpeed Web Server" rel="bookmark">_h5ai on ‎LiteSpeed Web Server</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/personal/" rel="category tag">Personal</a>, <a href="https://k0nsl.org/blog/category/software/" rel="category tag">Software</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/_h5ai-on-lsws/#respond">0 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/_h5ai-on-lsws/" title="_h5ai on ‎LiteSpeed Web Server" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="68" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/05/litespeed_featured_new01_k0nsl.jpg" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/05/litespeed_featured_new01_k0nsl.jpg 1001w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/05/litespeed_featured_new01_k0nsl-300x135.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+</a>
+<div class="post-content">
+To get rid of &#8220;Javascript disabled error&#8221; when running _h5ai on LSWS, you&#8217;ve got to edit the following file: /path_to/public_html/_h5ai/server/php/inc/class-bootstrap.php Jump to line 72: As you can already tell I&#8217;ve commented out the following line: define("APP_HREF", Util::normalize_path(dirname(dirname(dirname($script_name))), true)); You&#8217;ve got to do the same, else it won&#8217;t work on LSWS. Alas, replace the above line </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/_h5ai-on-lsws/" title="_h5ai on ‎LiteSpeed Web Server">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>22.04.15</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/eric-hunts-documentaries/" title="Eric Hunt&#8217;s Documentaries" rel="bookmark">Eric Hunt&#8217;s Documentaries</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/history-2/" rel="category tag">History</a>, <a href="https://k0nsl.org/blog/category/videos/" rel="category tag">Videos</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/eric-hunts-documentaries/#respond">0 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/eric-hunts-documentaries/" title="Eric Hunt&#8217;s Documentaries" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="136" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nslorg-frontpage02.jpg" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nslorg-frontpage02.jpg 1027w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nslorg-frontpage02-300x272.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />  </div>
+</a>
+ <div class="post-content">
+Hi friends, I have mirrored [1] most of Eric Hunt&#8217;s documentaries, spread out over several different servers around the world. You will be geolocated to a location that is closest to where you are, in most cases. This is particularly true for his documentary “The Majdanek Gas Chamber Myth” which is spread across six different </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/eric-hunts-documentaries/" title="Eric Hunt&#8217;s Documentaries">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>14.04.15</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/" title="An update on the &#8216;subrosa situation&#8217;" rel="bookmark">An update on the &#8216;subrosa situation&#8217;</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/software/" rel="category tag">Software</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/#respond">0 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/" title="An update on the &#8216;subrosa situation&#8217;" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="114" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nsl-subrosa-client-screenshot01.jpg" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nsl-subrosa-client-screenshot01.jpg 917w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nsl-subrosa-client-screenshot01-300x228.jpg 300w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/04/k0nsl-subrosa-client-screenshot01-80x60.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+</a>
+<div class="post-content">
+Hi friends, As most of you know by now the entire network hosted by subrosa is dead due to the following reason: Now you know why you cannot reach it. At any rate: some of the people in our group say they had trouble getting on the self-hosted version that is maintained by myself, so </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/an-update-on-the-subrosa-situation/" title="An update on the &#8216;subrosa situation&#8217;">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>28.03.15</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/benchmark-of-my-e8400/" title="Benchmark of my E8400" rel="bookmark">Benchmark of my E8400</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/benchmarking/" rel="category tag">Benchmarking</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/benchmark-of-my-e8400/#respond">0 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/benchmark-of-my-e8400/" title="Benchmark of my E8400" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="103" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/e8400-benchmark01_k0nsl.png" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/e8400-benchmark01_k0nsl.png 1059w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/e8400-benchmark01_k0nsl-300x206.png 300w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+</a>
+<div class="post-content">
+A benchmark of my overclocked E8400. You can read about the details of this system in this post. [divider]System Specs[/divider] RAM 8 GB HDD 1827 GB CPU Model Intel(R) Core(TM)2 Duo CPU E8400 @ 3.00GHz CPU Cores 2 CPU Speed 4095 MHz CPU Cache 6144 KB [divider]UnixBench[/divider] UnixBench (w/ all processors) 3102.4 UnixBench (w/ one </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/benchmark-of-my-e8400/" title="Benchmark of my E8400">
+Read More </a>
+</div>
+</article>
+<article class="post excerpt">
+<div class="post-date-ribbon"><div class="corner"></div>17.03.15</div>
+<header>
+<h2 class="title">
+<a href="https://k0nsl.org/blog/new-system-up-running/" title="New system up &#038; running!" rel="bookmark">New system up &#038; running!</a>
+</h2>
+<div class="post-info">
+<span class="theauthor"><span><i class="ribbon-icon icon-users"></i></span>By&nbsp;<a href="https://k0nsl.org/blog/author/k0nsl/" title="Posts by k0nsl" rel="author">k0nsl</a></span>
+<span class="featured-cat"><span><i class="ribbon-icon icon-bookmark"></i></span><a href="https://k0nsl.org/blog/category/computing/" rel="category tag">Computing</a>, <a href="https://k0nsl.org/blog/category/hardware/" rel="category tag">Hardware</a>, <a href="https://k0nsl.org/blog/category/projects/" rel="category tag">Projects</a>, <a href="https://k0nsl.org/blog/category/watercooling-2/" rel="category tag">Watercooling</a></span>
+<span class="thecomment"><span><i class="ribbon-icon icon-comment"></i></span>&nbsp;<a href="https://k0nsl.org/blog/new-system-up-running/#comments">2 Comments</a></span>
+</div>
+</header>
+<a href="https://k0nsl.org/blog/new-system-up-running/" title="New system up &#038; running!" id="featured-thumbnail">
+<div class="featured-thumbnail">
+<img width="150" height="113" src="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/DSC_0017.jpg" class="attachment-ribbon-lite-featured size-ribbon-lite-featured wp-post-image" alt="" title="" srcset="https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/DSC_0017.jpg 3264w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/DSC_0017-300x225.jpg 300w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/DSC_0017-1216x912.jpg 1216w, https://k0nsl.img-cdn.ru/blog/k1/uploads/2015/03/DSC_0017-80x60.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /> </div>
+ </a>
+<div class="post-content">
+[divider]Video Description[/divider] Combobulated is the keyword (is that even a word?) At any rate, this is a system I pulled together from bits and pieces and a CPU which was sent to me from Hong Kong. The CPU is a E8400, socket 775. Motherboard? Asus Maximus Extreme, see: http://k0nsl.org/bag/hardware/Asus_Maximus_Extreme/ Cooling? It&#8217;s passively cooled by a </div>
+<div class="readMore">
+<a href="https://k0nsl.org/blog/new-system-up-running/" title="New system up &#038; running!">
+Read More </a>
+</div>
+</article>
+<nav class="navigation posts-navigation" role="navigation">
+
+<nav class="navigation pagination" role="navigation">
+<h2 class="screen-reader-text">Posts navigation</h2>
+<div class="nav-links"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://k0nsl.org/blog/page/2/'>2</a>
+<a class='page-numbers' href='https://k0nsl.org/blog/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://k0nsl.org/blog/page/62/'>62</a>
+<a class="next page-numbers" href="https://k0nsl.org/blog/page/2/"><i class="ribbon-icon icon-angle-right"></i></a></div>
+</nav> </nav>
+</div>
+<aside class="sidebar c-4-12">
+<div id="sidebars" class="sidebar">
+<div class="sidebar_list">
+<div id="text-19" class="widget widget_text"><h3 class="widget-title">Blast from the past</h3> <div class="textwidget"><div id="quotescollection_randomquote-0" class="quotescollection_randomquote"><p><blockquote class='style-1'>I passed out when I saw “Holocau$t” written somewhere.</blockquote> <cite>&mdash;&nbsp;<span class="quotescollection_author">Mr.C</span>, <span class="quotescollection_source">k0nsl-archives / 2005</span></cite></p></div></div>
+</div><div id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3><form action="https://k0nsl.org/blog" method="get"><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="911">Archive&nbsp;&nbsp;(3)</option>
+<option class="level-0" value="282">Benchmarking&nbsp;&nbsp;(23)</option>
+<option class="level-0" value="1136">Books&nbsp;&nbsp;(1)</option>
+<option class="level-0" value="1616">Code&nbsp;&nbsp;(1)</option>
+<option class="level-0" value="3">Computing&nbsp;&nbsp;(40)</option>
+<option class="level-0" value="189">Discourse&nbsp;&nbsp;(39)</option>
+<option class="level-0" value="186">Gaming&nbsp;&nbsp;(3)</option>
+<option class="level-0" value="136">Hardware&nbsp;&nbsp;(26)</option>
+<option class="level-0" value="475">History&nbsp;&nbsp;(33)</option>
+<option class="level-0" value="902">Holocaust&nbsp;&nbsp;(30)</option>
+<option class="level-1" value="869">&nbsp;&nbsp;&nbsp;Holocaust Believers&nbsp;&nbsp;(3)</option>
+<option class="level-1" value="797">&nbsp;&nbsp;&nbsp;Holocaust Enforcers&nbsp;&nbsp;(7)</option>
+<option class="level-1" value="988">&nbsp;&nbsp;&nbsp;Holocaust Ideologues&nbsp;&nbsp;(2)</option>
+<option class="level-1" value="723">&nbsp;&nbsp;&nbsp;Holocaust Survivors&nbsp;&nbsp;(6)</option>
+<option class="level-0" value="328">Humour&nbsp;&nbsp;(10)</option>
+<option class="level-0" value="473">Hunting&nbsp;&nbsp;(3)</option>
+<option class="level-0" value="416">IRC&nbsp;&nbsp;(4)</option>
+<option class="level-0" value="708">Judaism&nbsp;&nbsp;(7)</option>
+<option class="level-0" value="235">Linux&nbsp;&nbsp;(3)</option>
+<option class="level-0" value="778">Main&nbsp;&nbsp;(3)</option>
+<option class="level-0" value="329">Mods&nbsp;&nbsp;(1)</option>
+<option class="level-0" value="310">Music&nbsp;&nbsp;(10)</option>
+<option class="level-0" value="340">Networking&nbsp;&nbsp;(12)</option>
+<option class="level-0" value="547">News&nbsp;&nbsp;(11)</option>
+<option class="level-0" value="1418">Newsletters&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="227">Other&nbsp;&nbsp;(17)</option>
+<option class="level-0" value="1229">People&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="4">Personal&nbsp;&nbsp;(70)</option>
+<option class="level-1" value="441">&nbsp;&nbsp;&nbsp;Work&nbsp;&nbsp;(21)</option>
+<option class="level-0" value="89">Programming&nbsp;&nbsp;(13)</option>
+<option class="level-1" value="1538">&nbsp;&nbsp;&nbsp;Bash&nbsp;&nbsp;(2)</option>
+<option class="level-1" value="1197">&nbsp;&nbsp;&nbsp;PHP&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="489">Projects&nbsp;&nbsp;(17)</option>
+<option class="level-0" value="9">Security &amp; Privacy&nbsp;&nbsp;(23)</option>
+<option class="level-0" value="16">Services&nbsp;&nbsp;(40)</option>
+<option class="level-1" value="1283">&nbsp;&nbsp;&nbsp;VPS Providers&nbsp;&nbsp;(15)</option>
+<option class="level-0" value="243">Software&nbsp;&nbsp;(8)</option>
+<option class="level-1" value="394">&nbsp;&nbsp;&nbsp;nginx&nbsp;&nbsp;(1)</option>
+<option class="level-1" value="351">&nbsp;&nbsp;&nbsp;WordPress&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="500">Survival&nbsp;&nbsp;(1)</option>
+<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(1)</option>
+<option class="level-0" value="90">Videos&nbsp;&nbsp;(34)</option>
+<option class="level-0" value="354">Watercooling&nbsp;&nbsp;(8)</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</div><div id="text-22" class="widget widget_text"> <div class="textwidget"><iframe src="https://www.adsettings.com/scripts/gen_adbox_adsettings.php?pid=23179&b=3228&target=_top" marginheight="0" marginwidth="0" style="border:0px none;" scrolling="no" frameborder="0"></iframe></div>
+</div> </div>
+</div>
+</aside> </div>
+<footer id="site-footer" role="contentinfo">
+<div class="container">
+<div class="footer-widgets">
+<div class="footer-widget">
+<div id="text-20" class="widget widget_text"><h3 class="widget-title">Affiliates</h3> <div class="textwidget"><ul class="list-2">
+<li><a href="https://backupsy.com/aff.php?aff=327" rel="contact" title="Backupsy cheap backup VPS. Cheap storage VPS, Bittorrent Sync." target="_blank">Backupsy</a></li>
+<li><a href="https://www.digitalocean.com/?refcode=85b929177e54" title="Simple Cloud Hosting. Built for developers. Deploy an SSD cloud server in 55 seconds!" target="_blank">DigitalOcean</a></li>
+<li><a href="https://www.prometeus.net/billing/aff.php?aff=134" target="_blank">Prometeus.com</a></li>
+<li><a href="https://secure.rosehosting.com/clientarea/?affid=444" title="Linux VPS Hosting | RoseHosting.com" target="_blank">RoseHosting.com</a></li>
+<li><a href="https://www.cloudways.com/en/?id=76315" title="Cloudways Managed Cloud Platform, with 150+ features and 24x7x365 Support, provides users the ease of hosting web applications on top infrastructures." target="_blank">Cloudways</a></li>
+</ul></div>
+</div> </div>
+<div class="footer-widget">
+</div>
+<div class="footer-widget last">
+</div>
+</div>
+</div>
+
+<div class="copyrights">
+<div class="container">
+<div class="row" id="copyright-note">
+<div class="top">
+Maintained by <a href="https://k0nsl.org/">k0nsl</a> (i.am@k0nsl.org). <a href="#top" class="toplink">Back to Top &uarr;</a>
+</div>
+</div>
+</div>
+</div>
+
+</footer>
+<script type='text/javascript' src='https://k0nsl.org/blog/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//s.k0nsl.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+</body>
+</html>
