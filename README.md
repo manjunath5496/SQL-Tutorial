@@ -969,6 +969,18 @@ Pitfalls of SQL        1
 
 </br>
 
+<ul>
+
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(66).pdf" style="text-decoration:none;">SQL Cheat Sheet</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(67).pdf" style="text-decoration:none;">Introduction to SQL</a></li>
+
+</ul>
+
+</br>
+
+
 <h2 id ="Books"> Books</h2>
 
 
