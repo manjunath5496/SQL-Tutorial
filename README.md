@@ -995,7 +995,7 @@ Pitfalls of SQL        1
   <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(30).pdf" style="text-decoration:none;">Microsoft course 2778, Writing Queries Using Microsoft SQL Server 2008 Transact-SQL</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(31).pdf" style="text-decoration:none;"> SQL Practice Problems</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(32).pdf" style="text-decoration:none;">Our mathematical universe: my quest for the ultimate nature of reality</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(32).pdf" style="text-decoration:none;">A guide to the SQL standard</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(33).pdf" style="text-decoration:none;">SQL Queries for Mere Mortals</a></li>                              
 
@@ -1016,8 +1016,24 @@ Pitfalls of SQL        1
 <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(44).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 Transact-SQL DML Reference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(45).pdf" style="text-decoration:none;">SQL Server Query Performance Tuning</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(46).rar" style="text-decoration:none;">SQL: Access to SOL Server</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(47).pdf" style="text-decoration:none;">SQL++ For SQL Users: A Tutorial</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(48).pdf" style="text-decoration:none;">Tabular Modeling with SQL Server 2016 Analysis Services Cookbook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(49).pdf" style="text-decoration:none;">The Art of SQL</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(50).pdf" style="text-decoration:none;">What's New in SQL Server 2012: Unleash the new features of SQL Server 2012</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(51).pdf" style="text-decoration:none;">Advanced Transact SQL for SQL Server 2000</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(52).pdf" style="text-decoration:none;">Complete Microsoft SQL Server: Tips and Secrets for Professionals</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(53).pdf" style="text-decoration:none;">SQL Query for SQL Server User's Manual</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(54).pdf" style="text-decoration:none;">SQL for MySQL Developers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(55).pdf" style="text-decoration:none;">SQL:
+Pocket Guide</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(56).pdf" style="text-decoration:none;">SQL Server Backup and Restore</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(57).pdf" style="text-decoration:none;">A Developer's Guide to Data Modeling for SQL Server</a></li>
 
 
 
