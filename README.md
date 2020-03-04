@@ -7,7 +7,7 @@
 
 </br>
 
-<table class="infobox vevent"><caption class="summary">SQL</caption>
+<table class="infobox vevent">
 <tbody>
 <tr>
 <th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
