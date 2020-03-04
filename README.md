@@ -7,6 +7,131 @@
 
 </br>
 
+<table class="infobox vevent"><caption class="summary">SQL</caption>
+<tbody>
+<tr>
+<th scope="row"><a title="Programming paradigm" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
+<td><a class="mw-redirect" title="Multi-paradigm programming language" href="https://en.wikipedia.org/wiki/Multi-paradigm_programming_language">Multi-paradigm</a>:&nbsp;<a title="Declarative programming" href="https://en.wikipedia.org/wiki/Declarative_programming">declarative</a></td>
+</tr>
+<tr>
+<th scope="row">Family</th>
+<td><a title="Programming language" href="https://en.wikipedia.org/wiki/Programming_language">Programming language</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Designed&nbsp;by</a></th>
+<td><a title="Donald D. Chamberlin" href="https://en.wikipedia.org/wiki/Donald_D._Chamberlin">Donald D. Chamberlin</a><br /><a title="Raymond F. Boyce" href="https://en.wikipedia.org/wiki/Raymond_F._Boyce">Raymond F. Boyce</a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
+<td class="organiser"><a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">ISO</a>/<a title="International Electrotechnical Commission" href="https://en.wikipedia.org/wiki/International_Electrotechnical_Commission">IEC</a></td>
+</tr>
+<tr>
+<th scope="row">First&nbsp;appeared</th>
+<td>1974<span class="noprint">; 46&nbsp;years ago</span></td>
+</tr>
+<tr>
+<th scope="row"><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Typing discipline</a></th>
+<td><a class="mw-redirect" title="Static typing" href="https://en.wikipedia.org/wiki/Static_typing">Static</a>,&nbsp;<a class="mw-redirect" title="Strong typing" href="https://en.wikipedia.org/wiki/Strong_typing">strong</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Operating system" href="https://en.wikipedia.org/wiki/Operating_system">OS</a></th>
+<td><a class="mw-redirect" title="Cross-platform" href="https://en.wikipedia.org/wiki/Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="File format" href="https://en.wikipedia.org/wiki/File_format">File formats</a></th>
+<td><strong>File format details</strong></td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
+<td><code>.sql</code></td>
+</tr>
+<tr>
+<th scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
+<td><code>application/sql</code></td>
+</tr>
+<tr>
+<th scope="row">Developed&nbsp;by</th>
+<td><a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">ISO</a>/<a title="International Electrotechnical Commission" href="https://en.wikipedia.org/wiki/International_Electrotechnical_Commission">IEC</a></td>
+</tr>
+<tr>
+<th scope="row">Initial release</th>
+<td>1986</td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Latest release</a></th>
+<td>
+<div><a title="SQL:2016" href="https://en.wikipedia.org/wiki/SQL:2016">SQL:2016</a><br />(December&nbsp;2016<span class="noprint">; 3&nbsp;years ago</span>)</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Type of format</th>
+<td>Database</td>
+</tr>
+<tr>
+<th scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standard</a></th>
+<td>ISO/IEC 9075</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">Open format</a>?</span></th>
+<td>Yes</td>
+</tr>
+<tr>
+<th colspan="2">Major&nbsp;<a title="Programming language implementation" href="https://en.wikipedia.org/wiki/Programming_language_implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2"><a title="List of relational database management systems" href="https://en.wikipedia.org/wiki/List_of_relational_database_management_systems">Many</a></td>
+</tr>
+<tr>
+<th colspan="2"><a title="Programming language" href="https://en.wikipedia.org/wiki/Programming_language#Dialects,_flavors_and_implementations">Dialects</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div class="hlist">
+<ul>
+<li>SQL-86</li>
+<li>SQL-89</li>
+<li><a title="SQL-92" href="https://en.wikipedia.org/wiki/SQL-92">SQL-92</a></li>
+<li><a title="SQL:1999" href="https://en.wikipedia.org/wiki/SQL:1999">SQL:1999</a></li>
+<li><a title="SQL:2003" href="https://en.wikipedia.org/wiki/SQL:2003">SQL:2003</a></li>
+<li><a title="SQL:2006" href="https://en.wikipedia.org/wiki/SQL:2006">SQL:2006</a></li>
+<li><a title="SQL:2008" href="https://en.wikipedia.org/wiki/SQL:2008">SQL:2008</a></li>
+<li><a title="SQL:2011" href="https://en.wikipedia.org/wiki/SQL:2011">SQL:2011</a></li>
+<li><a title="SQL:2016" href="https://en.wikipedia.org/wiki/SQL:2016">SQL:2016</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Influenced by</th>
+</tr>
+<tr>
+<td colspan="2"><a title="Datalog" href="https://en.wikipedia.org/wiki/Datalog">Datalog</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced</th>
+</tr>
+<tr>
+<td colspan="2"><a title="Contextual Query Language" href="https://en.wikipedia.org/wiki/Contextual_Query_Language">CQL</a>,&nbsp;<a title="Language Integrated Query" href="https://en.wikipedia.org/wiki/Language_Integrated_Query">LINQ</a>,&nbsp;<a title="SPARQL" href="https://en.wikipedia.org/wiki/SPARQL">SPARQL</a>, SOQL,&nbsp;<a title="PowerShell" href="https://en.wikipedia.org/wiki/PowerShell">PowerShell</a>,&nbsp;<a title="Java Persistence Query Language" href="https://en.wikipedia.org/wiki/Java_Persistence_Query_Language">JPQL</a>,&nbsp;<a class="mw-redirect" title="Java Object Oriented Querying" href="https://en.wikipedia.org/wiki/Java_Object_Oriented_Querying">jOOQ</a>,&nbsp;<a class="mw-redirect" title="N1QL" href="https://en.wikipedia.org/wiki/N1QL">N1QL</a></td>
+</tr>
+<tr>
+<td class="hlist" colspan="2">
+<p><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:Structured Query Language" href="https://en.wikibooks.org/wiki/Structured_Query_Language">Structured Query Language</a>&nbsp;at Wikibooks</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
+
+
+
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
