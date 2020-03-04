@@ -940,3 +940,84 @@ Pitfalls of SQL        1
 
 <h2 id ="Books"> Books</h2>
 
+
+<ul>
+
+                            
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(2).pdf" style="text-decoration:none;">Data Science with Microsoft SQL Server 2016</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(3).pdf" style="text-decoration:none;">Learning SQL</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(4).pdf" style="text-decoration:none;">Programming Microsoft SQL Server 2012</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(5).pdf" style="text-decoration:none;">Healthy SQL: A Comprehensive Guide to Healthy SQL Server Performance</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(6).pdf" style="text-decoration:none;">Joe Celko's SQL for Smarties</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(7).pdf" style="text-decoration:none;">Learn SQL Server Administration in a Month of Lunches</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(8).pdf" style="text-decoration:none;"> Mastering Oracle SQL and SQL*Plus</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(9).pdf" style="text-decoration:none;">Mastering SQL Queries for SAP Business One</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(10).rar" style="text-decoration:none;">Microsoft SQL Server 2012 Bible</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(11).pdf" style="text-decoration:none;">Practical SQL: A Beginner's Guide to Storytelling with Data</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(12).pdf" style="text-decoration:none;">Pro SQL Server on Linux</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(13).pdf" style="text-decoration:none;">Real World SQL and PL/SQL</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(14).pdf" style="text-decoration:none;">Sams Teach Yourself Microsoft SQL Server T-SQL in 10 Minutes</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(15).pdf" style="text-decoration:none;">Sams Teach Yourself Oracle PL/SQL in 10 Minutes</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(16).pdf" style="text-decoration:none;">SQL For Dummies, 9th Edition</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(17).rar" style="text-decoration:none;">SQL For Dummies, 8th Edition</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(18).pdf" style="text-decoration:none;">SQL in a Nutshell</a></b></li> 
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(19).pdf" style="text-decoration:none;">SQL Primer: An Accelerated Introduction to SQL Basics</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(20).pdf" style="text-decoration:none;">SQL Server 2017 Integration Services Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(21).pdf" style="text-decoration:none;">SQL Server Interview Questions and Answers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(22).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 T-SQL Fundamentals</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(23).pdf" style="text-decoration:none;">SQL Stored Procedures and Embedded SQL</a></b></li> 
+ 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(24).pdf" style="text-decoration:none;">SQL: Visual QuickStart Guide</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(25).pdf" style="text-decoration:none;">SQL: A Beginner's Guide</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(26).pdf" style="text-decoration:none;">SQL: Easy SQL Programming and Database Management For Beginners. Your Step-By- Step Guide To Learning The SQL Database</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(27).pdf" style="text-decoration:none;">SQL: with practice exercises, Learn SQL Fast</a></b></li>
+   
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(28).pdf" style="text-decoration:none;">SQL Injection Attacks and Defense</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(29).pdf" style="text-decoration:none;">SQL: The Complete Reference</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(30).pdf" style="text-decoration:none;">Microsoft course 2778, Writing Queries Using Microsoft SQL Server 2008 Transact-SQL</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(31).pdf" style="text-decoration:none;"> Life 3.0 : being human in the age of artificial intelligence</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(32).pdf" style="text-decoration:none;">Our mathematical universe: my quest for the ultimate nature of reality</a></b></li> 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(33).pdf" style="text-decoration:none;">The clustering of luminous red galaxies in the Sloan Digital Sky Survey imaging data</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(34).pdf" style="text-decoration:none;">A Map of the Universe</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(35).pdf" style="text-decoration:none;">Parallel Universes</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(36).pdf" style="text-decoration:none;">The Shape of the Sloan Digital Sky Survey Data Release 5 Galaxy Power Spectrum</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(37).pdf" style="text-decoration:none;">100 years of quantum mysteries</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(38).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(39).pdf" style="text-decoration:none;">Why Is the Cosmic Microwave Background Fluctuation Level 10<sup>−5</sup>?</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(40).pdf" style="text-decoration:none;">Dimensionless constants, cosmology, and other dark matters</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(41).pdf" style="text-decoration:none;">On the dimensionality of spacetime</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(42).pdf" style="text-decoration:none;">Interview: Max Tegmark on Superintelligent AI, Cosmic Apocalypse, and Life 3.0</a></b></li>
+</ul>
+
+
+
+
+
+
+
+
+
