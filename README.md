@@ -34,6 +34,26 @@
 
 
 <h2><span id="History" class="mw-headline">History</span></h2>
+
+</br>
+
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<td><a class="image" href="Edgar_F_Codd.jpg"><img src="Edgar_F_Codd.jpg" srcset="Edgar_F_Codd.jpg" alt="Edgar F Codd.jpg" width="150" height="213" data-file-width="211" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<td>
+<div class="nickname" style="text-align: center;"><strong>Edgar Frank Codd</strong></div>
+<br /><br /></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 <p>SQL was initially developed at&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>&nbsp;by&nbsp;<a title="Donald D. Chamberlin" href="https://en.wikipedia.org/wiki/Donald_D._Chamberlin">Donald D. Chamberlin</a>&nbsp;and&nbsp;<a title="Raymond F. Boyce" href="https://en.wikipedia.org/wiki/Raymond_F._Boyce">Raymond F. Boyce</a>&nbsp;after learning about the relational model from&nbsp;<a class="mw-redirect" title="Ted Codd" href="https://en.wikipedia.org/wiki/Ted_Codd">Ted Codd</a>&nbsp;in the early 1970s.&nbsp;This version, initially called&nbsp;<em>SEQUEL</em>&nbsp;(<em>Structured English Query Language</em>), was designed to manipulate and retrieve data stored in IBM's original quasi-relational database management system,&nbsp;<a title="IBM System R" href="https://en.wikipedia.org/wiki/IBM_System_R">System R</a>, which a group at&nbsp;<a class="mw-redirect" title="IBM Almaden Research Center" href="https://en.wikipedia.org/wiki/IBM_Almaden_Research_Center">IBM San Jose Research Laboratory</a>&nbsp;had developed during the 1970s.</p>
 <p>Chamberlin and Boyce's first attempt of a relational database language was Square, but it was difficult to use due to subscript notation. After moving to the San Jose Research Laboratory in 1973, they began work on SEQUEL.&nbsp;The acronym SEQUEL was later changed to SQL because "SEQUEL" was a&nbsp;<a title="Trademark" href="https://en.wikipedia.org/wiki/Trademark">trademark</a>&nbsp;of the&nbsp;<a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">UK-based</a>&nbsp;<a title="Hawker Siddeley" href="https://en.wikipedia.org/wiki/Hawker_Siddeley">Hawker Siddeley</a>&nbsp;Dynamics Engineering Limited company.</p>
 <p>After testing SQL at customer test sites to determine the usefulness and practicality of the system, IBM began developing commercial products based on their System R prototype including&nbsp;<a title="IBM System/38" href="https://en.wikipedia.org/wiki/IBM_System/38">System/38</a>,&nbsp;<a title="IBM SQL/DS" href="https://en.wikipedia.org/wiki/IBM_SQL/DS">SQL/DS</a>, and&nbsp;<a class="mw-redirect" title="IBM DB2" href="https://en.wikipedia.org/wiki/IBM_DB2">DB2</a>, which were commercially available in 1979, 1981, and 1983, respectively.</p>
