@@ -65,6 +65,53 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(65).rar" style="text-decoration:none;">The Relational Model for Database Management: Version 2 </a></li>
 </ul>
 </br>
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="Don_Chamberlin.jpg"><img src="Don_Chamberlin.jpg" srcset="Don_Chamberlin.jpg" alt="Don Chamberlin.jpg" width="220" height="330" data-file-width="1760" data-file-height="2640" /></a>
+<div>Don Chamberlin at the Computer History Museum's 2009 Fellows Award event</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(68).pdf" style="text-decoration:none;">Integration of SQL and XQuery in IBM DB2</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(69).pdf" style="text-decoration:none;">Implementation of a Structured English Query Language</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(70).pdf" style="text-decoration:none;">System R: Relational Approach to Database Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(71).pdf" style="text-decoration:none;">Quilt: An XML Query Language for Heterogeneous Data Sources</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(72).pdf" style="text-decoration:none;">Extending XQuery for Analytics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(73).pdf" style="text-decoration:none;">Access Path Selection in a Relational Database Management System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(74).pdf" style="text-decoration:none;">SEQUEL: A structured English query language </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(75).pdf" style="text-decoration:none;">XML and Relational Database Management Systems: the Inside Story</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(76).pdf" style="text-decoration:none;">Specifying queries as relational expressions: The SQUARE Data Sublanguage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(77).pdf" style="text-decoration:none;">A History and Evaluation of System R</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(78).pdf" style="text-decoration:none;">XQuery 1.0: An XML Query Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(79).pdf" style="text-decoration:none;">XQueryP: Programming with XQuery</a></li>
+
+
+</ul>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>SQL was initially developed at&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>&nbsp;by&nbsp;<a title="Donald D. Chamberlin" href="https://en.wikipedia.org/wiki/Donald_D._Chamberlin">Donald D. Chamberlin</a>&nbsp;and&nbsp;<a title="Raymond F. Boyce" href="https://en.wikipedia.org/wiki/Raymond_F._Boyce">Raymond F. Boyce</a>&nbsp;after learning about the relational model from&nbsp;<a class="mw-redirect" title="Ted Codd" href="https://en.wikipedia.org/wiki/Ted_Codd">Ted Codd</a>&nbsp;in the early 1970s.&nbsp;This version, initially called&nbsp;<em>SEQUEL</em>&nbsp;(<em>Structured English Query Language</em>), was designed to manipulate and retrieve data stored in IBM's original quasi-relational database management system,&nbsp;<a title="IBM System R" href="https://en.wikipedia.org/wiki/IBM_System_R">System R</a>, which a group at&nbsp;<a class="mw-redirect" title="IBM Almaden Research Center" href="https://en.wikipedia.org/wiki/IBM_Almaden_Research_Center">IBM San Jose Research Laboratory</a>&nbsp;had developed during the 1970s.</p>
 <p>Chamberlin and Boyce's first attempt of a relational database language was Square, but it was difficult to use due to subscript notation. After moving to the San Jose Research Laboratory in 1973, they began work on SEQUEL.&nbsp;The acronym SEQUEL was later changed to SQL because "SEQUEL" was a&nbsp;<a title="Trademark" href="https://en.wikipedia.org/wiki/Trademark">trademark</a>&nbsp;of the&nbsp;<a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">UK-based</a>&nbsp;<a title="Hawker Siddeley" href="https://en.wikipedia.org/wiki/Hawker_Siddeley">Hawker Siddeley</a>&nbsp;Dynamics Engineering Limited company.</p>
 <p>After testing SQL at customer test sites to determine the usefulness and practicality of the system, IBM began developing commercial products based on their System R prototype including&nbsp;<a title="IBM System/38" href="https://en.wikipedia.org/wiki/IBM_System/38">System/38</a>,&nbsp;<a title="IBM SQL/DS" href="https://en.wikipedia.org/wiki/IBM_SQL/DS">SQL/DS</a>, and&nbsp;<a class="mw-redirect" title="IBM DB2" href="https://en.wikipedia.org/wiki/IBM_DB2">DB2</a>, which were commercially available in 1979, 1981, and 1983, respectively.</p>
