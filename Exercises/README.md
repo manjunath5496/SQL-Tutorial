@@ -7,4 +7,4 @@
 - [x] [Pieces and providers](https://github.com/manjunath5496/SQL-Tutorial/blob/master/Exercises/5.md)
 - [x] [Scientists](https://github.com/manjunath5496/SQL-Tutorial/blob/master/Exercises/6.md)
 - [x] [Planet Express](https://github.com/manjunath5496/SQL-Tutorial/blob/master/Exercises/7.md)
-- [x] [The Hospital](https://github.com/Zhenye-Na/SQL-Exercises/tree/master/8.%20The%20Hospital)
+- [x] [The Hospital](https://github.com/manjunath5496/SQL-Tutorial/blob/master/Exercises/8.md)
