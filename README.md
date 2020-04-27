@@ -1147,6 +1147,10 @@ Pitfalls of SQL        1
  <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(66).pdf" style="text-decoration:none;">SQL Cheat Sheet</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(67).pdf" style="text-decoration:none;">Introduction to SQL</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/sql(80).pdf" style="text-decoration:none;">SQL Server Interview Questions</a></li>
+<li><a target="_blank" href="https://www.youtube.com/results?search_query=SQL+Tutorial" style="text-decoration:none;">SQL videos </a></li>
+<li><a target="_blank" href="https://manjunath5496.github.io/sql-quiz/index.html" style="text-decoration:none;">SQL Quiz </a></li>
+
 
 </ul>
 
