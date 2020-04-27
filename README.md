@@ -1151,6 +1151,11 @@ Pitfalls of SQL        1
 <li><a target="_blank" href="https://www.youtube.com/results?search_query=SQL+Tutorial" style="text-decoration:none;">SQL videos </a></li>
 <li><a target="_blank" href="https://manjunath5496.github.io/sql-quiz/index.html" style="text-decoration:none;">SQL Quiz </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/Exercises/README.md" style="text-decoration:none;">SQL Exercises </a></li>
+
+
+
+
 
 </ul>
 
